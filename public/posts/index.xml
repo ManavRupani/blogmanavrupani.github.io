@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on technophile</title>
     <link>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on technophile</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2024 15:08:21 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 08:55:19 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Money Explained: Understanding Debt and the Economy</title>
+      <link>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/moneyexplained/</link>
+      <pubDate>Wed, 19 Jun 2024 08:55:19 -0400</pubDate>
+      <guid>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/moneyexplained/</guid>
+      <description>Money Explained: Understanding Debt and the Economy What is Money in Terms of Debt? Debt is something one party owes another, typically money. Companies and individuals often take on debt to make large purchases they could not afford without it. Debt can be secured or unsecured, with a fixed end date or revolving. Consumers can borrow money through loans or lines of credit, including credit cards.
+USA National Debt and GDP As of 2024, the U.</description>
+    </item>
     <item>
       <title>Exploring LPCAMM2 RAM: An Introduction</title>
       <link>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/first/</link>

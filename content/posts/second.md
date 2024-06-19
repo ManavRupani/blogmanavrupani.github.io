@@ -43,7 +43,7 @@ Remove the cover of your laptop by loosening the screws[^1^][6]. Be careful not 
 
 Pull the old RAM module straight up to remove it[^1^][6]. Be gentle and avoid touching the gold contacts.
 
-!Image of removed RAM
+
 
 ## Step 5: Install the New RAM
 
@@ -51,7 +51,6 @@ Pull the old RAM module straight up to remove it[^1^][6]. Be gentle and avoid to
 
 Insert the new LPCAMM2 RAM module into the slot[^1^][6]. Make sure it's securely in place.
 
-!Image of new RAM
 
 ## Step 6: Close Your Laptop
 
@@ -59,7 +58,7 @@ Insert the new LPCAMM2 RAM module into the slot[^1^][6]. Make sure it's securely
 
 Replace the cover and tighten the screws[^1^][6].
 
-!Image of closed laptop
+
 
 ## Step 7: Power On Your Laptop
 
@@ -67,7 +66,7 @@ Replace the cover and tighten the screws[^1^][6].
 
 Turn on your laptop. If it boots up normally, then congratulations! You've successfully installed your new LPCAMM2 RAM[^1^][6].
 
-!Image of powered on laptop
+
 
 ## Conclusion
 
