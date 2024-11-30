@@ -1,38 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Home on technophile</title>
-    <link>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/</link>
-    <description>Recent content in Home on technophile</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <title>Welcome to My Blog on technophile</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Welcome to My Blog on technophile</description>
+    <generator>Hugo -- 0.139.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jun 2024 08:55:19 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/ManavRupani/blogmanavrupani.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Nov 2024 18:22:46 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Self-Hosting: A Cost-Effective Alternative</title>
+      <link>//localhost:1313/posts/selfhosting/</link>
+      <pubDate>Sat, 30 Nov 2024 18:22:46 -0500</pubDate>
+      <guid>//localhost:1313/posts/selfhosting/</guid>
+      <description>&lt;h1 id=&#34;self-hosting-a-cost-effective-and-flexible-solution&#34;&gt;Self-Hosting: A Cost-Effective and Flexible Solution&lt;/h1&gt;
+&lt;p&gt;In an era dominated by cloud providers offering &amp;ldquo;plug-and-play&amp;rdquo; solutions, &lt;strong&gt;self-hosting&lt;/strong&gt; is often overlooked. However, it remains a powerful and cost-effective alternative for individuals and businesses who are willing to invest time and effort into managing their own infrastructure.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-self-hosting&#34;&gt;What is Self-Hosting?&lt;/h2&gt;
+&lt;p&gt;Self-hosting refers to hosting your applications, websites, or services on your own hardware (like a personal server or home setup) or rented infrastructure (such as a VPS) rather than relying on managed services from cloud providers like AWS, Azure, or Google Cloud.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Money Explained: Understanding Debt and the Economy</title>
-      <link>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/moneyexplained/</link>
+      <link>//localhost:1313/posts/moneyexplained/</link>
       <pubDate>Wed, 19 Jun 2024 08:55:19 -0400</pubDate>
-      <guid>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/moneyexplained/</guid>
-      <description>Money Explained: Understanding Debt and the Economy What is Money in Terms of Debt? Debt is something one party owes another, typically money. Companies and individuals often take on debt to make large purchases they could not afford without it. Debt can be secured or unsecured, with a fixed end date or revolving. Consumers can borrow money through loans or lines of credit, including credit cards.
-USA National Debt and GDP As of 2024, the U.</description>
+      <guid>//localhost:1313/posts/moneyexplained/</guid>
+      <description>&lt;h1 id=&#34;money-explained-understanding-debt-and-the-economy&#34;&gt;Money Explained: Understanding Debt and the Economy&lt;/h1&gt;
+&lt;h2 id=&#34;what-is-money-in-terms-of-debt&#34;&gt;What is Money in Terms of Debt?&lt;/h2&gt;
+&lt;p&gt;Debt is something one party owes another, typically money. Companies and individuals often take on debt to make large purchases they could not afford without it. Debt can be secured or unsecured, with a fixed end date or revolving. Consumers can borrow money through loans or lines of credit, including credit cards.&lt;/p&gt;
+&lt;h2 id=&#34;usa-national-debt-and-gdp&#34;&gt;USA National Debt and GDP&lt;/h2&gt;
+&lt;p&gt;As of 2024, the U.S. national debt totaled $34.64 trillion. This debt represents the sum of past annual budget deficits. As of December 2023, total federal debt was $33.1 trillion; $26.5 trillion held by the public and $12.1 trillion in intragovernmental debt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exploring LPCAMM2 RAM: An Introduction</title>
-      <link>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/first/</link>
+      <link>//localhost:1313/posts/first/</link>
       <pubDate>Sat, 01 Jun 2024 15:08:21 -0400</pubDate>
-      <guid>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/first/</guid>
-      <description>Exploring LPCAMM2 RAM: An Introduction Welcome to our deep dive into the world of LPCAMM2 RAM. In this series of blog posts, we&amp;rsquo;ll explore the intricacies of LPCAMM2 RAM, its applications, and why it&amp;rsquo;s becoming a crucial component in modern computing.
-What is LPCAMM2 RAM? LPCAMM2 RAM is a type of memory module that&amp;rsquo;s gaining popularity in the tech industry. It&amp;rsquo;s known for its high-speed performance, energy efficiency, and superior reliability.</description>
+      <guid>//localhost:1313/posts/first/</guid>
+      <description>&lt;h1 id=&#34;exploring-lpcamm2-ram-an-introduction&#34;&gt;Exploring LPCAMM2 RAM: An Introduction&lt;/h1&gt;
+&lt;p&gt;Welcome to our deep dive into the world of LPCAMM2 RAM. In this series of blog posts, we&amp;rsquo;ll explore the intricacies of LPCAMM2 RAM, its applications, and why it&amp;rsquo;s becoming a crucial component in modern computing.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-lpcamm2-ram&#34;&gt;What is LPCAMM2 RAM?&lt;/h2&gt;
+&lt;p&gt;LPCAMM2 RAM is a type of memory module that&amp;rsquo;s gaining popularity in the tech industry. It&amp;rsquo;s known for its high-speed performance, energy efficiency, and superior reliability. But what sets LPCAMM2 RAM apart from other types of RAM? And why should you care about it?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Step-by-Step Guide to Installing and Upgrading LPCAMM2 RAM</title>
-      <link>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/second/</link>
+      <link>//localhost:1313/posts/second/</link>
       <pubDate>Sat, 01 Jun 2024 15:08:21 -0400</pubDate>
-      <guid>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/second/</guid>
-      <description>Step-by-Step Guide to Installing and Upgrading LPCAMM2 RAM In this guide, we&amp;rsquo;ll walk you through the process of installing and upgrading LPCAMM2 RAM in your laptop. We&amp;rsquo;ll provide step-by-step instructions, along with images to guide you through each step.
-Step 1: Gather Your Tools &amp;ldquo;Good work starts with having the right tools.&amp;rdquo;
-Before you begin, make sure you have the following tools[^1^][6]:
-A Phillips-head screwdriver An anti-static wrist strap Your new LPCAMM2 RAM module Step 2: Power Down Your Laptop &amp;ldquo;Safety first!</description>
+      <guid>//localhost:1313/posts/second/</guid>
+      <description>&lt;h1 id=&#34;step-by-step-guide-to-installing-and-upgrading-lpcamm2-ram&#34;&gt;Step-by-Step Guide to Installing and Upgrading LPCAMM2 RAM&lt;/h1&gt;
+&lt;p&gt;In this guide, we&amp;rsquo;ll walk you through the process of installing and upgrading LPCAMM2 RAM in your laptop. We&amp;rsquo;ll provide step-by-step instructions, along with images to guide you through each step.&lt;/p&gt;
+&lt;h2 id=&#34;step-1-gather-your-tools&#34;&gt;Step 1: Gather Your Tools&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Good work starts with having the right tools.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Before you begin, make sure you have the following tools[^1^][6]:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A Phillips-head screwdriver&lt;/li&gt;
+&lt;li&gt;An anti-static wrist strap&lt;/li&gt;
+&lt;li&gt;Your new LPCAMM2 RAM module&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;step-2-power-down-your-laptop&#34;&gt;Step 2: Power Down Your Laptop&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Safety first! Always power down your device before making any hardware changes.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

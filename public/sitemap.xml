@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/moneyexplained/</loc>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-11-30T18:22:46-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/selfhosting/</loc>
+    <lastmod>2024-11-30T18:22:46-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/moneyexplained/</loc>
     <lastmod>2024-06-19T08:55:19-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/</loc>
-    <lastmod>2024-06-19T08:55:19-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/first/</loc>
+    <loc>//localhost:1313/posts/first/</loc>
     <lastmod>2024-06-01T15:08:21-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/second/</loc>
+    <loc>//localhost:1313/posts/second/</loc>
     <lastmod>2024-06-01T15:08:21-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-06-01T14:47:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
