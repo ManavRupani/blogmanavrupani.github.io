@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Welcome to My Blog on technophile</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/</link>
     <description>Recent content in Welcome to My Blog on technophile</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Nov 2024 18:22:46 -0500</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ManavRupani/blogmanavrupani.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Self-Hosting: A Cost-Effective Alternative</title>
-      <link>//localhost:1313/posts/selfhosting/</link>
+      <link>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/selfhosting/</link>
       <pubDate>Sat, 30 Nov 2024 18:22:46 -0500</pubDate>
-      <guid>//localhost:1313/posts/selfhosting/</guid>
+      <guid>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/selfhosting/</guid>
       <description>&lt;h1 id=&#34;self-hosting-a-cost-effective-and-flexible-solution&#34;&gt;Self-Hosting: A Cost-Effective and Flexible Solution&lt;/h1&gt;
 &lt;p&gt;In an era dominated by cloud providers offering &amp;ldquo;plug-and-play&amp;rdquo; solutions, &lt;strong&gt;self-hosting&lt;/strong&gt; is often overlooked. However, it remains a powerful and cost-effective alternative for individuals and businesses who are willing to invest time and effort into managing their own infrastructure.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-self-hosting&#34;&gt;What is Self-Hosting?&lt;/h2&gt;
@@ -20,9 +20,9 @@
     </item>
     <item>
       <title>Money Explained: Understanding Debt and the Economy</title>
-      <link>//localhost:1313/posts/moneyexplained/</link>
+      <link>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/moneyexplained/</link>
       <pubDate>Wed, 19 Jun 2024 08:55:19 -0400</pubDate>
-      <guid>//localhost:1313/posts/moneyexplained/</guid>
+      <guid>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/moneyexplained/</guid>
       <description>&lt;h1 id=&#34;money-explained-understanding-debt-and-the-economy&#34;&gt;Money Explained: Understanding Debt and the Economy&lt;/h1&gt;
 &lt;h2 id=&#34;what-is-money-in-terms-of-debt&#34;&gt;What is Money in Terms of Debt?&lt;/h2&gt;
 &lt;p&gt;Debt is something one party owes another, typically money. Companies and individuals often take on debt to make large purchases they could not afford without it. Debt can be secured or unsecured, with a fixed end date or revolving. Consumers can borrow money through loans or lines of credit, including credit cards.&lt;/p&gt;
@@ -31,9 +31,9 @@
     </item>
     <item>
       <title>Exploring LPCAMM2 RAM: An Introduction</title>
-      <link>//localhost:1313/posts/first/</link>
+      <link>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/first/</link>
       <pubDate>Sat, 01 Jun 2024 15:08:21 -0400</pubDate>
-      <guid>//localhost:1313/posts/first/</guid>
+      <guid>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/first/</guid>
       <description>&lt;h1 id=&#34;exploring-lpcamm2-ram-an-introduction&#34;&gt;Exploring LPCAMM2 RAM: An Introduction&lt;/h1&gt;
 &lt;p&gt;Welcome to our deep dive into the world of LPCAMM2 RAM. In this series of blog posts, we&amp;rsquo;ll explore the intricacies of LPCAMM2 RAM, its applications, and why it&amp;rsquo;s becoming a crucial component in modern computing.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-lpcamm2-ram&#34;&gt;What is LPCAMM2 RAM?&lt;/h2&gt;
@@ -41,9 +41,9 @@
     </item>
     <item>
       <title>Step-by-Step Guide to Installing and Upgrading LPCAMM2 RAM</title>
-      <link>//localhost:1313/posts/second/</link>
+      <link>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/second/</link>
       <pubDate>Sat, 01 Jun 2024 15:08:21 -0400</pubDate>
-      <guid>//localhost:1313/posts/second/</guid>
+      <guid>http://localhost:1313/ManavRupani/blogmanavrupani.github.io/posts/second/</guid>
       <description>&lt;h1 id=&#34;step-by-step-guide-to-installing-and-upgrading-lpcamm2-ram&#34;&gt;Step-by-Step Guide to Installing and Upgrading LPCAMM2 RAM&lt;/h1&gt;
 &lt;p&gt;In this guide, we&amp;rsquo;ll walk you through the process of installing and upgrading LPCAMM2 RAM in your laptop. We&amp;rsquo;ll provide step-by-step instructions, along with images to guide you through each step.&lt;/p&gt;
 &lt;h2 id=&#34;step-1-gather-your-tools&#34;&gt;Step 1: Gather Your Tools&lt;/h2&gt;
